@@ -28,4 +28,4 @@ $ go get github.com/kitagry/git-get
 $ git get https://github.com/hoge/fuga
 ```
 
-So, git clone the above repository in `$GITGET_HOME/github.com/hoge/fuga`
+So, git clone the above repository in `$GITGET_HOME/github.com/hoge/fuga` (If `$GITGET_HOME` is not present, it will clone in `$HOME/src/github.com/hoge/fuga`)
